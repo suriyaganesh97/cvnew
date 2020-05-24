@@ -1,0 +1,119 @@
+body
+{
+    margin:0;
+    text-align: center;
+
+}
+h1
+{
+  color:red;
+font-family: 'Sacramento', cursive;
+font-size: 3.75rem;  /*using 60px when converting to rem becomes 3.75 rem */
+margin-bottom: 0;
+}
+h2
+{
+  font-size: 1.375rem;  /*using 30px when converting to rem becomes 3.75 rem */
+  color:#1b262c;
+  margin-top: 0;
+  font-weight: normal;
+  line-height: 2;
+}
+h3
+{
+  color:#45046a;
+
+}
+a
+{
+  color:#11999E;
+  MARGIN: 10PX 20PX;
+  text-decoration: none;
+}
+a:hover{
+  color:white;
+}
+hr
+{
+border: dotted #66BFBF 6px;
+border-bottom: none;
+width:4%;
+margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.topcontainer
+{
+  background-color: #abf0e9;
+  margin:0;
+  padding-top: 30px;
+  position: relative;
+  margin-bottom: 20px;
+}
+.profilepic
+{
+  width: 160px;
+  height:200px;
+  border-radius: 50%;
+}
+
+
+.full
+{
+  color: red;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 400px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left:400px;
+}
+.secondimage
+{
+  width: 25%;
+  border-radius: 50%;
+  height:100px;
+  float: left;
+  margin-right: 20px;
+}
+.thirdimage
+{
+  width: 25%;
+  border-radius: 50%;
+  height:100px;
+  float: right;
+  margin-right: 20px;
+}
+.skill-row
+{
+  width:50%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding-top: 20px;
+    padding-bottom: 10px;
+}
+.copyright
+{
+  margin-bottom: 0;
+  padding-bottom:10px;
+}
+
+.button {
+  background-color: #66BFBF; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
