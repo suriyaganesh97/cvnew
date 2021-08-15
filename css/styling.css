@@ -50,6 +50,10 @@ margin-bottom: 30px;
   position: relative;
   margin-bottom: 20px;
 }
+.middle-container
+{
+  background-color: #66bf95;
+}
 .profilepic
 {
   width: 160px;
