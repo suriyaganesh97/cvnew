@@ -2,3 +2,8 @@ body
 {
     background-color: rgb(161, 135, 222);
 }
+
+.huge
+{
+    font-size: 10rem;
+}
